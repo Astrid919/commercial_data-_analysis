@@ -1,0 +1,139 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text_chars": 760,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 2,
+      "text_chars": 551,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 3,
+      "text_chars": 508,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 4,
+      "text_chars": 300,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 5,
+      "text_chars": 419,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 6,
+      "text_chars": 562,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 7,
+      "text_chars": 650,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 8,
+      "text_chars": 844,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 9,
+      "text_chars": 412,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 10,
+      "text_chars": 686,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 11,
+      "text_chars": 613,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 12,
+      "text_chars": 637,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 13,
+      "text_chars": 695,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 14,
+      "text_chars": 701,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 15,
+      "text_chars": 495,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 16,
+      "text_chars": 1000,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 17,
+      "text_chars": 376,
+      "images": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 18,
+      "text_chars": 690,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "page": 19,
+      "text_chars": 1062,
+      "images": 0,
+      "width": 612.0,
+      "height": 792.0
+    }
+  ],
+  "page_count": 19,
+  "renderer": "Word COM export + PyMuPDF rasterization; bundled LibreOffice unavailable"
+}

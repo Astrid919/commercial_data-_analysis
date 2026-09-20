@@ -1,0 +1,15 @@
+{
+  "selected_K": 5,
+  "PCA_variance_explained": [
+    0.24383439685662722,
+    0.13639359599477388
+  ],
+  "cluster_labels": {
+    "0": "Niche / Volatile",
+    "1": "Niche / Volatile",
+    "2": "Niche / Volatile",
+    "3": "Emerging / Mixed",
+    "4": "Mature Leaders"
+  },
+  "purpose": "Descriptive, never directly converted to recommended action"
+}

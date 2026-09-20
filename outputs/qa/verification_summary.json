@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "checks": 119,
+  "source_sha256": "1bd2852a9a0fb410ec5ac864dc0b3d7ced0b5dfebe756868a72b2bfe2117af23",
+  "scope": "Numerical, pipeline and temporal-boundary checks; not external validation or causal proof"
+}

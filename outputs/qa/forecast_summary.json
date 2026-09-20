@@ -1,0 +1,8 @@
+{
+  "point_2024": 805352056.545171,
+  "growth_2024": -0.0511610078093645,
+  "P10_scenario": 685542142.0217628,
+  "P90_scenario": 814150323.6763809,
+  "calibration_origins": 3,
+  "warning": "P50_proxy is a point forecast, not a fitted median. P10/P90 are empirical residual planning bounds, weakly calibrated from three overlapping annual origins; annual quantiles are not summed monthly/INN quantiles."
+}

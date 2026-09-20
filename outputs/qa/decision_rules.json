@@ -1,0 +1,12 @@
+{
+  "opportunity_top_fraction": 0.2,
+  "current_volume_top_fraction": 0.25,
+  "flat_share_tolerance": 0.002,
+  "supply_forecast_growth": 0.1,
+  "supply_cv": 1,
+  "supply_zero_rate": 0.2,
+  "supply_negative_bias": -0.1,
+  "opportunity_holdout_lift20": 2.2175905861546643,
+  "opportunity_ranking_enabled": true,
+  "cluster_drives_action": false
+}

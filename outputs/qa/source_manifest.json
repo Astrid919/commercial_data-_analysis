@@ -1,0 +1,22 @@
+{
+  "source": "E:\\iqvia商业分析实例\\data\\teva_sales.csv",
+  "sha256": "1bd2852a9a0fb410ec5ac864dc0b3d7ced0b5dfebe756868a72b2bfe2117af23",
+  "summary": {
+    "sku_count": 13762,
+    "inn_raw_labels": 1777,
+    "inn_known_count": 1776,
+    "unknown_inn_skus": 931,
+    "brand_count": 4895,
+    "atc4_count": 587,
+    "atc5_count": 1563,
+    "months": 60,
+    "sku_month_observations": 825720,
+    "total_sales_2019_2023": 4932123984.73,
+    "missing_sales": 0,
+    "negative_sales": 0,
+    "zero_sales": 261130,
+    "fractional_sales_observations": 562352,
+    "unknown_inn_sales_share": 0.025670895008315806
+  },
+  "unit": "Original source sales units; case describes packs; fractional values retained; scaling not independently documented"
+}

@@ -1,0 +1,7 @@
+{
+  "test_lift20_mean": 2.2175905861546643,
+  "anchor_bootstrap_95_low": 2.1059356051828257,
+  "anchor_bootstrap_95_high": 2.3302275445574794,
+  "anchors": 6,
+  "caution": "Six overlapping outcome months: descriptive interval; not independent replication"
+}

@@ -1,0 +1,8 @@
+{
+  "complete_case_skus": 6190,
+  "observations": 371400,
+  "inn_count": 807,
+  "form_reference": "form_Oral solid",
+  "estimator": "OLS with absorbed INN x calendar-month FE; SKU-clustered asymptotic SE; no SKU FE because attributes time invariant",
+  "interpretation": "Association, not causation; mg only comparable within molecule and formulation"
+}

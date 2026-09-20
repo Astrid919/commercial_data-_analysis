@@ -1,0 +1,9 @@
+{
+  "ATC4": "R01A A Sympathomimetics, plain",
+  "known_inn_count": 5,
+  "market_growth_2023": 0.11911565286309522,
+  "sales_2023": 37822449.29000001,
+  "forecast_2024_allocated": 37615951.343821496,
+  "selection_rule": "Largest 2023 ATC4 with 4 to 12 known INNs, at least 4 peers each with >=1% share, largest peer <70%",
+  "forecast_note": "INN forecast allocated to SKUs using 2023 volume mix, then aggregated to this ATC4"
+}
