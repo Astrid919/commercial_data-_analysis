@@ -1,0 +1,5 @@
+{
+  "intermittent_model": "Seasonal Naive",
+  "non_intermitttent_model": "Seasonal Naive",
+  "selection": "pooled 12m validation WAPE for ADI>=1.32"
+}
