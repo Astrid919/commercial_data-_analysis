@@ -1,5 +1,0 @@
-Using libcurl 8.3.0 with Schannel
-Error in download_batch(tasks$url, tasks$file) : 
-  all(file.exists(files)) is not TRUE
-Calls: download_batch -> stopifnot
-Execution halted

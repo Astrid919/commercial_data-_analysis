@@ -1,8 +1,0 @@
-[1] "LC_COLLATE=English_United States.utf8;LC_CTYPE=English_United States.utf8;LC_MONETARY=English_United States.utf8;LC_NUMERIC=C;LC_TIME=English_United States.utf8"
-    year expected
-   <int>    <num>
-1:  2019   410854
-Downloaded data/raw/partb_targeted_2019_fixed_0100000.json
-Downloaded data/raw/partb_targeted_2019_fixed_0200000.json
-Downloaded data/raw/partb_targeted_2019_fixed_0300000.json
-Downloaded data/raw/partb_targeted_2019_fixed_0400000.json
